@@ -1,7 +1,5 @@
-# assets
+# Brand Assets
 
-Public Assets
-
-- [Logos](https://avex.id/assets/logos)
-- [Icons](https://avex.id/assets/icons)
-- [Banners](https://avex.id/assets/banners)
+- [Logos](https://assets.avex.id/assets/logos)
+- [Icons](https://assets.avex.id/assets/icons)
+- [Banners](https://assets.avex.id/assets/banners)
