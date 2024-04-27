@@ -1,5 +1,5 @@
 # Brand Assets
 
-- [Logos](https://assets.avex.id/assets/logos)
-- [Icons](https://assets.avex.id/assets/icons)
-- [Banners](https://assets.avex.id/assets/banners)
+- [Logos](https://assets.avex.id/logos)
+- [Icons](https://assets.avex.id/icons)
+- [Banners](https://assets.avex.id/banners)
