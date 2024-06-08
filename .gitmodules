@@ -1,0 +1,3 @@
+[submodule "platforms/defy/animated-fluent-emojis"]
+	path = platforms/defy/animated-fluent-emojis
+	url = https://github.com/avex-id/animated-fluent-emojis.git
